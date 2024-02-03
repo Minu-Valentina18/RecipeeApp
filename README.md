@@ -6,16 +6,16 @@ RecipeeApp is a user-friendly web application designed to simplify the cooking e
 # Key Features:
 
 **Ingredient-Based Search:**
-    Users can input the ingredients they have on hand into the search bar. The application will provide a list of recipes that match the available ingredients, ensuring users can make the most of what's already in their kitchen.
+    <t>  Users can input the ingredients they have on hand into the search bar. The application will provide a list of recipes that match the available ingredients, ensuring users can make the most of what's already in their kitchen.
 
-**Streamlined Interface:**<br><t>
-    The user interface is clean and straightforward, allowing users to navigate effortlessly. A minimalist design ensures that the focus is on the recipes and the search functionality.
+**Streamlined Interface:**<br>
+    <t> The user interface is clean and straightforward, allowing users to navigate effortlessly. A minimalist design ensures that the focus is on the recipes and the search functionality.
 
-**Favorites Section:**
-    Users can save their favorite recipes for quick access in the future. The Favorites section allows users to curate a personalized collection of go-to recipes.
+**Favorites Section:**<br>
+    <t>  Users can save their favorite recipes for quick access in the future. The Favorites section allows users to curate a personalized collection of go-to recipes.
 
-**Detailed Recipe Pages:**
-    Each recipe comes with a detailed page showcasing ingredients, step-by-step instructions, and any additional tips or notes. Users can easily follow the recipe without any confusion, even if they are not seasoned chefs.
+**Detailed Recipe Pages:**<br>
+    <t>  Each recipe comes with a detailed page showcasing ingredients, step-by-step instructions, and any additional tips or notes. Users can easily follow the recipe without any confusion, even if they are not seasoned chefs.
 
-**Responsive Design:**
-    RecipeeApp is optimized for various devices, ensuring a seamless experience whether users access the application from a desktop, tablet, or smartphone.
+**Responsive Design:**<br>
+    <t>  RecipeeApp is optimized for various devices, ensuring a seamless experience whether users access the application from a desktop, tablet, or smartphone.
