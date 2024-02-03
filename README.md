@@ -8,7 +8,7 @@ RecipeeApp is a user-friendly web application designed to simplify the cooking e
 **Ingredient-Based Search:**
     Users can input the ingredients they have on hand into the search bar. The application will provide a list of recipes that match the available ingredients, ensuring users can make the most of what's already in their kitchen.
 
-**Streamlined Interface:**<br>
+**Streamlined Interface:**<br><t>
     The user interface is clean and straightforward, allowing users to navigate effortlessly. A minimalist design ensures that the focus is on the recipes and the search functionality.
 
 **Favorites Section:**
