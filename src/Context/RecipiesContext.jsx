@@ -35,9 +35,8 @@ export const RecipiesContextProvider = ({ children }) => {
             setRecipes(result.recipes);
             setIsLoading(false);
             return;
-        }
-        
-        throw error({error:'Something went wrong'})
+        }else
+          throw error({error:'Something went wrong'})
       })
       .catch((error) => {
         console.group();

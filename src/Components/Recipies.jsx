@@ -1,4 +1,4 @@
-import  { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { useRecipiesCtx } from "../Context/RecipiesContext";
 import SummaryApp from "../SummaryApp";
@@ -19,7 +19,7 @@ function Recipies() {
     if (!isLoading) {
       if (value === "") {
         setSortedRecipes(recipes);
-       // setValue(value);
+        setValue(value);
         return;
       }
       setSortedRecipes(
@@ -48,7 +48,7 @@ function Recipies() {
     "borderRadius": "20px",
     "backgroundColor": "#67AFCB"
 }
-      console.log(sortedRecipes , recipes);
+
   return (
     <BrowserRouter>
       <Routes>
@@ -63,7 +63,6 @@ function Recipies() {
               <div className="recipes" id="recipeID">
                 {Array.isArray(sortedRecipes) && sortedRecipes.length > 0 ? (
                   sortedRecipes.map(({id, title, image}, index ) => {
-                    console.log(id, title)
                     return(
                     <RecipeCard
                     id={id}
